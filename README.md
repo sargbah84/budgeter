@@ -2,7 +2,7 @@ React Budget App
 =================
 
 <p align="center">
-  <img width="460" height="300" src="https://res.cloudinary.com/sargbah84/image/upload/v1617338628/app/budgeter/screenshot_c3ptmo.png">
+  <img width="300" height="550" src="https://res.cloudinary.com/sargbah84/image/upload/v1617338628/app/budgeter/screenshot_c3ptmo.png">
 </p>
 
 ## Overview
