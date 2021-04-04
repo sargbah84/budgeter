@@ -12,7 +12,7 @@ This is a simple budget app built using React and Bootstrap CSS. The app will cr
 Simply go to the deployment url and have fun!
 
 ## To Build
-Simply clone the repo
-run `npm i` to install all dependencies 
-run `npm run start` to serve up the project on `localhost:8080`.
+Simply clone the repo\
+run `npm i` to install all dependencies\ 
+run `npm run start` to serve up the project on `localhost:8080`.\
 run `npm run build` to build
